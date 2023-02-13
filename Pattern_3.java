@@ -16,7 +16,7 @@ public class Pattern_3 {
                 int i=1;
                 while(i<=space)
                 {
-                    System.out.print("  ");
+                    System.out.print(" ");
                     i++;
                 }
                 //stars
