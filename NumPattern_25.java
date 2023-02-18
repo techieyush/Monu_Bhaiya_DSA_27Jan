@@ -17,6 +17,7 @@ public class NumPattern_25 {
                 i++;
             }
             int j=1;
+            int count=1;
             while(j<=nst)
             {
                 System.out.print(count+" \t");

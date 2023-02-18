@@ -20,7 +20,7 @@ public class NumPattern_28 {
             int p=val;
             while(j<=nst)
             {
-                System.out.print(p+" ");
+                System.out.print(j+" ");
                 if(p<=nst/2)
                 {
                     p++;
@@ -28,8 +28,9 @@ public class NumPattern_28 {
                 else{
                     p--;    
                 }
-                j++;
+               j++; 
             }
+            
             if(row<num)
             {
                 nst+=2;
@@ -40,6 +41,8 @@ public class NumPattern_28 {
                 space1++;
                 val--;
             }
+            
+
             row++;
             System.out.println();
         }
