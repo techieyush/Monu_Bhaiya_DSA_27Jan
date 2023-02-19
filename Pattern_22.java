@@ -6,7 +6,7 @@ public class Pattern_22 {
         Scanner sc = new Scanner(System.in);
         int num=sc.nextInt();
         int row=1;
-        int space=0;
+        int space=-1;
         int nst=num;
         while(row<=num)
         {
