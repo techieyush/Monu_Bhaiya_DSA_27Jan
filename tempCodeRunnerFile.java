@@ -1,0 +1,2 @@
+public class TypeCastingQ2 {
+    
