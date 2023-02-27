@@ -1,2 +1,1 @@
-public class TypeCastingQ2 {
-    
+swaP(arr,othr);
