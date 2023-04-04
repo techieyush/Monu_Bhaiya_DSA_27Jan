@@ -18,7 +18,8 @@ public class PrintAllSubsequenceOfString {
  
     public static void main(String[] args) {
         String str="abc";
-       PrintSubseq(str,"");
+        String ans="";
+       PrintSubseq(str,ans);
        
     }
     
